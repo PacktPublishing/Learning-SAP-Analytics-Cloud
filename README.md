@@ -8,11 +8,6 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 
 
-The code will look like the following:
-```
-
-```
-
 The most significant advantage of this platform is that you do not need to install or
 configure any software on your machine. A compatible web browser and a moderate
 Internet connection is all you need to access this application to create interactive dashboards
