@@ -19,6 +19,3 @@ in the cloud.
 * [VMware vCloud Director Essentials](https://www.packtpub.com/virtualization-and-cloud/vmware-vcloud-director-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781783986521)
 
 * [ASP.NET Core: Cloud-ready, Enterprise Web Application Development](https://www.packtpub.com/application-development/aspnet-core-cloud-ready-enterprise-web-application-development?utm_source=github&utm_medium=repository&utm_campaign=9781788296526)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
